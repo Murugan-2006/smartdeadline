@@ -1,0 +1,6 @@
+{
+  "name": "SmartDeadline AI",
+  "description": "SmartDeadline AI is a proactive, AI-powered productivity companion that scans Gmail, manages calendar schedules, discovers nearby services, and prioritizes last-minute tasks using context-aware insights.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
