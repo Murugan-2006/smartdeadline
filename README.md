@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/a0f0e70d-3dd7-45d1-bee4-e8ec0120ff06
+View your app in AI Studio: [https://ai.studio/apps/a0f0e70d-3dd7-45d1-bee4-e8ec0120ff06](https://smartdeadline-ai-1040471433786.asia-southeast1.run.app/)
 
 ## Run Locally
 
